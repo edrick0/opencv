@@ -1,4 +1,4 @@
-＃昭片夫背
+＃照片去背
 from remb import remove from PIL import Image import av2
 from google.colab.patches import cv2_imshow
 input path =
